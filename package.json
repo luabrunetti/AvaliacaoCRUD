@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silvasTairo/AvaliacaoCRUD.git"
+    "url": "git+https://github.com/luabrunetti/AvaliacaoCRUD"
   },
-  "author": "Tairo Pureza da Silva",
+  "author": "Luana Brunetti de Oliveira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/silvasTairo/AvaliacaoCRUD/issues"
+    "url": "https://github.com/luabrunetti/AvaliacaoCRUD/issues"
   },
-  "homepage": "https://github.com/silvasTairo/AvaliacaoCRUD#readme",
+  "homepage": "https://github.com/luabrunetti/AvaliacaoCRUD#readme",
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0",

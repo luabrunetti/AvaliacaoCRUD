@@ -81,5 +81,6 @@ module.exports = {
     insertCustomer,
     selectCustomers,
     selectCustomer,
+    updateCustomer,
     deleteCustomer
 }
